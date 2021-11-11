@@ -1,0 +1,69 @@
+
+.under-home h1{
+    font-size:1.5rem;
+}
+.under-home p{
+    font-size: 1.0rem;
+}
+.bttn
+{
+    font-size:14px;
+}
+.home::before{
+    height:567px;
+}
+.prod-img{
+    /*width:105px;
+    height:115px;*/
+    width:79px;
+    height:100px;
+}
+.prod-img:hover{
+    width:115px;
+    height:125px;
+}
+#register-form
+{
+    width:272px;
+}
+.product-img{
+    width:214px;
+}
+.prodnm h3{
+    font-size: 2.5rem;
+    
+    text-align: center;
+}
+.under-home
+{
+    width:301px;
+}
+#contact
+{
+    font-size:0.96rem;
+}
+.para
+{
+    font-size:1.0rem;
+}
+.contact-1
+{
+    
+        width: 272px;
+}
+.about-logo
+{
+    height:34px;
+}
+.input-text
+{
+    height:40px;
+}
+.bttn-2 {
+    padding: 8px 18px;
+    font-size:1.0rem;
+}
+.img-shadow h3
+{
+    font-size:1.2rem;
+}

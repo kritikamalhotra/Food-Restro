@@ -1,0 +1,76 @@
+.nav-list
+{
+    flex-direction: column;
+}
+
+.nav-list li a{
+    font-size:1.0rem;
+}
+.responsive
+{
+    display:block;
+   
+}
+.nav-list li{
+    padding:6px 20px;
+}
+#left
+{
+    text-align: left;
+}
+.navbarr
+{
+    flex-direction: column;
+    text-align: center;
+    transition: all 0.7s ease-out;
+    height:242px;
+    
+}
+.h-nav
+{
+    height:72px;
+}
+.v-class
+{
+    opacity: 0;
+}
+
+
+
+
+.prod-img
+{
+    width:210px;
+    height:210px;
+}
+.burger
+{
+    flex-direction: column;
+}
+.product
+{
+    margin-top:40px;
+}
+.product-img
+{
+    width:344px;
+}
+.cont-feed
+{
+  flex-direction: column;
+}
+#feedback
+{
+    width:100%;
+    margin-top:90px;
+}
+#contact
+{
+    width:100%;
+    text-align: center;
+    
+}
+.contact-1
+{
+    margin:12px auto;
+}
